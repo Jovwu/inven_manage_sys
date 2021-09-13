@@ -1,0 +1,63 @@
+﻿  addgoods.cpp
+  app.cpp
+  border.cpp
+  button.cpp
+  checkinfo.cpp
+  checkinfofile.cpp
+  checkmenu.cpp
+  checknote.cpp
+  checknotefile.cpp
+  checkrecord.cpp
+  checkrecordsingle.cpp
+  checkstock.cpp
+  config.cpp
+  console.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\console.cpp(36,26): warning C4018: “<”: 有符号/无符号不匹配
+  edit.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\edit.cpp(28,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\edit.cpp(609,28): warning C4018: “<”: 有符号/无符号不匹配
+  file.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\file.cpp(19,26): warning C4018: “<”: 有符号/无符号不匹配
+  goods.cpp
+  goodsfile.cpp
+  goodsin.cpp
+  goodsinfile.cpp
+  正在生成代码...
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\checkstock.cpp(349): warning C4715: “CtrBox::Event”: 不是所有的控件路径都返回值
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\checkrecordsingle.cpp(94): warning C4715: “CheckRecordSingle::TabelEvent”: 不是所有的控件路径都返回值
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\checkrecord.cpp(55): warning C4715: “CheckRecord::CheckTableEvent”: 不是所有的控件路径都返回值
+  正在编译...
+  goodsinrecord.cpp
+  goodsout.cpp
+  goodsoutfile.cpp
+  goodsoutin.cpp
+  goodsoutrecord.cpp
+  goodsquery.cpp
+  hintwin.cpp
+  keyboard.cpp
+  label.cpp
+  login.cpp
+  main.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\main.cpp(40,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  managermenu.cpp
+  reg.cpp
+  select.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\select.cpp(21,21): warning C4018: “>”: 有符号/无符号不匹配
+  stringtool.cpp
+  table.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\table.cpp(450,38): warning C4018: “<”: 有符号/无符号不匹配
+  td.cpp
+  time.cpp
+  user.cpp
+  userfile.cpp
+  正在生成代码...
+  正在编译...
+  widget.cpp
+  window.cpp
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\window.cpp(235,19): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\window.cpp(306,8): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\window.cpp(317,8): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\window.cpp(358,18): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码...
+C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\window.cpp(535): warning C4715: “Window::ShowHint”: 不是所有的控件路径都返回值
+  盘点机.vcxproj -> C:\Users\15606\Documents\zhongshiyu\传一\第一阶段\盘点机\小组资料\最终项目\钟石羽-DX191118-盘点机项目\src\盘点机\Debug\盘点机.exe

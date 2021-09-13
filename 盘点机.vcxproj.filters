@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Class Files">
+      <UniqueIdentifier>{7d57e5e7-b550-494d-a6c6-6ed9f14c94a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget">
+      <UniqueIdentifier>{44932195-5e9a-4139-b090-caa6eec6ff0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Windows">
+      <UniqueIdentifier>{a3be8d3c-ca4d-432d-b290-b6b7894e9032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Label">
+      <UniqueIdentifier>{e13fe30f-fc4c-42e7-a6a7-eb2562844c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Edit">
+      <UniqueIdentifier>{12c707de-2abf-4100-bc5d-7f6e9aaa0b5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Button">
+      <UniqueIdentifier>{d6846fef-ac88-46ec-be48-ada61440412c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Select">
+      <UniqueIdentifier>{d2533d08-bdce-49a4-87a6-34f512c27349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{26e3a2aa-1341-4a84-a878-7524cff3e253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File">
+      <UniqueIdentifier>{61412a95-ed4c-442a-afcc-5531f8f3dd23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\Console">
+      <UniqueIdentifier>{e9c97ac8-b38a-4ffc-963a-f3bd52d9f5bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\Keyboard">
+      <UniqueIdentifier>{db98beb1-ca2f-4bc2-831c-d16ee19b1291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\Time">
+      <UniqueIdentifier>{ab44b781-10a5-453e-b548-5a96e55d6c56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\UserFile">
+      <UniqueIdentifier>{c3a55904-c0ed-400e-996f-dd37e1ada9d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\GoodsFile">
+      <UniqueIdentifier>{1e2e690d-4a7e-4500-b830-c50a418637d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\CheckFile">
+      <UniqueIdentifier>{4842785f-8b88-423e-90af-906c48783127}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\CheckFile\CheckNoteFile">
+      <UniqueIdentifier>{26cea1ad-1b17-418d-b5e2-fcf6d5d30540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\CheckFile\CheckInfoFile">
+      <UniqueIdentifier>{5b55c084-c051-4f46-97fb-b9cb8f1b4cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Tabel">
+      <UniqueIdentifier>{3dc125e2-1d39-40b6-b3a7-78149c9e40b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Tabel\Td">
+      <UniqueIdentifier>{388b02a5-81e2-41b7-93ea-a1606d4e72d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model">
+      <UniqueIdentifier>{9d6871a1-b0bd-4d45-b7d5-8aad3a36dac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Goods">
+      <UniqueIdentifier>{4a586987-3322-43d0-900b-23b5663aa1b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Check">
+      <UniqueIdentifier>{ce95c9f5-e323-4e9e-9b39-eb8528094475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Check\CheckInfo">
+      <UniqueIdentifier>{0b63182b-f9a9-473d-abcf-088769ab636b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Check\CheckNote">
+      <UniqueIdentifier>{79e831c9-44dd-4f62-b177-17cbf00302eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\User">
+      <UniqueIdentifier>{e096cc76-c865-4479-8049-8366de2bb627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{d6f910dd-618d-4898-a810-e141657288db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Config">
+      <UniqueIdentifier>{10700e82-d953-48c9-8872-f9e4cd38082b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Windows\HintWin">
+      <UniqueIdentifier>{31c05668-dc25-4fb4-b306-2ed5cc3fe724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise">
+      <UniqueIdentifier>{1c159b2d-929e-4f68-b2de-37dd11147e8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Login">
+      <UniqueIdentifier>{4bf094e4-fe59-4efe-9255-7bbc8f6eae8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Reg">
+      <UniqueIdentifier>{092c4c72-7025-46a2-8677-b28b6252612e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager">
+      <UniqueIdentifier>{3e654a0e-2bb1-4d7f-86db-0d3159dd64cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check">
+      <UniqueIdentifier>{a6c60411-f355-4846-9f42-f363ab7832f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check\Menu">
+      <UniqueIdentifier>{685801c2-5d58-4820-9e13-a218b01041f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check\Menu\GoodsQuery">
+      <UniqueIdentifier>{23b582b6-7beb-43b2-adf5-7041f43e32c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Goods\GoodsOut">
+      <UniqueIdentifier>{795f3477-8c57-425c-a585-25d28e9c1180}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Model\Goods\GoodsIn">
+      <UniqueIdentifier>{c18f7f6e-9983-4710-bf72-16c89bb3595c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\GoodsFile\GoodsOutFile">
+      <UniqueIdentifier>{0a2cc48d-f6f3-406c-b19c-25aa8c280521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\File\GoodsFile\GoodsInFile">
+      <UniqueIdentifier>{2501a3cf-b0b0-4132-890a-2a01ef5f0ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check\Menu\CheckStock">
+      <UniqueIdentifier>{c004597b-993e-48e4-b6fa-7b4591689db4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check\Menu\CheckRecord">
+      <UniqueIdentifier>{f9413535-298b-4f93-b8bd-be597c883a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager\Menu">
+      <UniqueIdentifier>{782db9fa-226a-47dd-aeca-4e3a38dfaa3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager\Menu\AddGoods">
+      <UniqueIdentifier>{e48e13ef-b18d-4e75-82eb-4fb8d35f79ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Check\Menu\CheckRecord\CheckRecordSingle">
+      <UniqueIdentifier>{06a92179-6abf-42cd-89c4-79b23b54f662}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\StringTool">
+      <UniqueIdentifier>{f06771dd-5e78-43d4-8e1a-732027bcd045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager\Menu\GoodsOutRecord">
+      <UniqueIdentifier>{cd4ee23d-b7f4-4be8-a9cc-7ae7ddb51197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager\Menu\GoodsOutIn">
+      <UniqueIdentifier>{13c6bf0f-ec5f-4a3e-954b-56814ce346a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servise\Manager\Menu\GoodsInRecord">
+      <UniqueIdentifier>{7b1d8aa2-bdd8-47ad-8527-54edee960f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Files\Widget\Border">
+      <UniqueIdentifier>{73735f15-0d21-4049-a6fb-7c95c2213667}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="widget.h">
+      <Filter>Class Files\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="select.h">
+      <Filter>Class Files\Widget\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>Class Files\Model\User</Filter>
+    </ClInclude>
+    <ClInclude Include="goods.h">
+      <Filter>Class Files\Model\Goods</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
+      <Filter>Tools\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="keyboard.h">
+      <Filter>Tools\Keyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="file.h">
+      <Filter>Class Files\File</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Class Files\Widget\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="edit.h">
+      <Filter>Class Files\Widget\Edit</Filter>
+    </ClInclude>
+    <ClInclude Include="label.h">
+      <Filter>Class Files\Widget\Label</Filter>
+    </ClInclude>
+    <ClInclude Include="checkinfo.h">
+      <Filter>Class Files\Model\Check\CheckInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="checknote.h">
+      <Filter>Class Files\Model\Check\CheckNote</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>Tools\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="userfile.h">
+      <Filter>Class Files\File\UserFile</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsfile.h">
+      <Filter>Class Files\File\GoodsFile</Filter>
+    </ClInclude>
+    <ClInclude Include="checknotefile.h">
+      <Filter>Class Files\File\CheckFile\CheckNoteFile</Filter>
+    </ClInclude>
+    <ClInclude Include="checkinfofile.h">
+      <Filter>Class Files\File\CheckFile\CheckInfoFile</Filter>
+    </ClInclude>
+    <ClInclude Include="table.h">
+      <Filter>Class Files\Widget\Tabel</Filter>
+    </ClInclude>
+    <ClInclude Include="td.h">
+      <Filter>Class Files\Widget\Tabel\Td</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Class Files\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="login.h">
+      <Filter>Servise\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>App\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="app.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="reg.h">
+      <Filter>Servise\Reg</Filter>
+    </ClInclude>
+    <ClInclude Include="checkmenu.h">
+      <Filter>Servise\Check\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="hintwin.h">
+      <Filter>Class Files\Windows\HintWin</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsquery.h">
+      <Filter>Servise\Check\Menu\GoodsQuery</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsin.h">
+      <Filter>Class Files\Model\Goods\GoodsIn</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsout.h">
+      <Filter>Class Files\Model\Goods\GoodsOut</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsoutfile.h">
+      <Filter>Class Files\File\GoodsFile\GoodsOutFile</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsinfile.h">
+      <Filter>Class Files\File\GoodsFile\GoodsInFile</Filter>
+    </ClInclude>
+    <ClInclude Include="checkstock.h">
+      <Filter>Servise\Check\Menu\CheckStock</Filter>
+    </ClInclude>
+    <ClInclude Include="checkrecord.h">
+      <Filter>Servise\Check\Menu\CheckRecord</Filter>
+    </ClInclude>
+    <ClInclude Include="checkrecordsingle.h">
+      <Filter>Servise\Check\Menu\CheckRecord\CheckRecordSingle</Filter>
+    </ClInclude>
+    <ClInclude Include="addgoods.h">
+      <Filter>Servise\Manager\Menu\AddGoods</Filter>
+    </ClInclude>
+    <ClInclude Include="stringtool.h">
+      <Filter>Tools\StringTool</Filter>
+    </ClInclude>
+    <ClInclude Include="managermenu.h">
+      <Filter>Servise\Manager\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsoutin.h">
+      <Filter>Servise\Manager\Menu\GoodsOutIn</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsoutrecord.h">
+      <Filter>Servise\Manager\Menu\GoodsOutRecord</Filter>
+    </ClInclude>
+    <ClInclude Include="goodsinrecord.h">
+      <Filter>Servise\Manager\Menu\GoodsInRecord</Filter>
+    </ClInclude>
+    <ClInclude Include="border.h">
+      <Filter>Class Files\Widget\Border</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="widget.cpp">
+      <Filter>Class Files\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="select.cpp">
+      <Filter>Class Files\Widget\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="user.cpp">
+      <Filter>Class Files\Model\User</Filter>
+    </ClCompile>
+    <ClCompile Include="goods.cpp">
+      <Filter>Class Files\Model\Goods</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>Tools\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="keyboard.cpp">
+      <Filter>Tools\Keyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="file.cpp">
+      <Filter>Class Files\File</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Class Files\Widget\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="edit.cpp">
+      <Filter>Class Files\Widget\Edit</Filter>
+    </ClCompile>
+    <ClCompile Include="label.cpp">
+      <Filter>Class Files\Widget\Label</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="checkinfo.cpp">
+      <Filter>Class Files\Model\Check\CheckInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="checknote.cpp">
+      <Filter>Class Files\Model\Check\CheckNote</Filter>
+    </ClCompile>
+    <ClCompile Include="time.cpp">
+      <Filter>Tools\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="userfile.cpp">
+      <Filter>Class Files\File\UserFile</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsfile.cpp">
+      <Filter>Class Files\File\GoodsFile</Filter>
+    </ClCompile>
+    <ClCompile Include="checkinfofile.cpp">
+      <Filter>Class Files\File\CheckFile\CheckInfoFile</Filter>
+    </ClCompile>
+    <ClCompile Include="checknotefile.cpp">
+      <Filter>Class Files\File\CheckFile\CheckNoteFile</Filter>
+    </ClCompile>
+    <ClCompile Include="table.cpp">
+      <Filter>Class Files\Widget\Tabel</Filter>
+    </ClCompile>
+    <ClCompile Include="td.cpp">
+      <Filter>Class Files\Widget\Tabel\Td</Filter>
+    </ClCompile>
+    <ClCompile Include="window.cpp">
+      <Filter>Class Files\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="login.cpp">
+      <Filter>Servise\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="config.cpp">
+      <Filter>App\Config</Filter>
+    </ClCompile>
+    <ClCompile Include="app.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="reg.cpp">
+      <Filter>Servise\Reg</Filter>
+    </ClCompile>
+    <ClCompile Include="checkmenu.cpp">
+      <Filter>Servise\Check\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="hintwin.cpp">
+      <Filter>Class Files\Windows\HintWin</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsquery.cpp">
+      <Filter>Servise\Check\Menu\GoodsQuery</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsin.cpp">
+      <Filter>Class Files\Model\Goods\GoodsIn</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsout.cpp">
+      <Filter>Class Files\Model\Goods\GoodsOut</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsoutfile.cpp">
+      <Filter>Class Files\File\GoodsFile\GoodsOutFile</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsinfile.cpp">
+      <Filter>Class Files\File\GoodsFile\GoodsInFile</Filter>
+    </ClCompile>
+    <ClCompile Include="checkstock.cpp">
+      <Filter>Servise\Check\Menu\CheckStock</Filter>
+    </ClCompile>
+    <ClCompile Include="checkrecord.cpp">
+      <Filter>Servise\Check\Menu\CheckRecord</Filter>
+    </ClCompile>
+    <ClCompile Include="checkrecordsingle.cpp">
+      <Filter>Servise\Check\Menu\CheckRecord\CheckRecordSingle</Filter>
+    </ClCompile>
+    <ClCompile Include="addgoods.cpp">
+      <Filter>Servise\Manager\Menu\AddGoods</Filter>
+    </ClCompile>
+    <ClCompile Include="stringtool.cpp">
+      <Filter>Tools\StringTool</Filter>
+    </ClCompile>
+    <ClCompile Include="managermenu.cpp">
+      <Filter>Servise\Manager\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsoutin.cpp">
+      <Filter>Servise\Manager\Menu\GoodsOutIn</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsoutrecord.cpp">
+      <Filter>Servise\Manager\Menu\GoodsOutRecord</Filter>
+    </ClCompile>
+    <ClCompile Include="goodsinrecord.cpp">
+      <Filter>Servise\Manager\Menu\GoodsInRecord</Filter>
+    </ClCompile>
+    <ClCompile Include="border.cpp">
+      <Filter>Class Files\Widget\Border</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="用户记录\user.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="商品记录\goods.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="盘点记录\checknote.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="盘点记录\盘点详情\checkinfo.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="商品记录\出库记录\goodsout.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="商品记录\入库记录\goodsin.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
